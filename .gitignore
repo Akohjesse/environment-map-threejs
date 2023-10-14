@@ -14,7 +14,6 @@ dist-ssr
 *.hdr
 *.glb
 *.gltf
-public
 
 # Editor directories and files
 .vscode/*
